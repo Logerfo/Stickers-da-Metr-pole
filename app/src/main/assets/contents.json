@@ -323,6 +323,10 @@
         {
           "image_file": "04_falafiote.webp",
           "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "05_bauruzinho.webp",
+          "emojis": ["🍔"]
         }
       ]
     }
